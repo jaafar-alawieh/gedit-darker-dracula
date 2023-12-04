@@ -1,3 +1,2 @@
-## Install
-
-All instructions can be found at [draculatheme.com/gedit](https://draculatheme.com/gedit).
+Fork of Dracula's Gedit theme but a bit darker for my eyes.
+All credits go to them.
