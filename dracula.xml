@@ -29,9 +29,11 @@ SOFTWARE.
 	<_description>A dark theme for Gedit</_description>
 
 	<!-- Dracula colors -->
-	<color name="background" value="#282a36"/>
-	<color name="current-line" value="#44475a"/>
-	<color name="selection" value="#bd93f9"/>
+	<color name="background" value="#0D0E12"/>
+	<color name="current-line" value="#14161E"/>
+	<color name="selection" value="#44475a"/>
+	<color name="darkselection" value="#272a30"/>
+
 	<color name="foreground" value="#f8f8f2"/>
 	<color name="comment" value="#6272a4"/>
 	<color name="cyan" value="#8be9fd"/>
@@ -47,13 +49,13 @@ SOFTWARE.
 	<color name="bone-white" value="#f8f8f0"/>
 	<color name="weird-gray" value="#909194"/>
 
-	<style name="text" foreground="bone-white" background="background"/>
+	<style name="text" foreground="#AAFF00" background="background"/>
 	<style name="selection" background="selection"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
-	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
-	<style name="search-match" foreground="selection" background="yellow"/>
+	<style name="bracket-match" foreground="pink" background="background" bold="true"/>
+	<style name="search-match" foreground="pink" background="darkselection"/>
         <style name="background-pattern" background="#2f313e"/>
 
 
