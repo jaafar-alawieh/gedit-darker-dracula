@@ -49,7 +49,7 @@ SOFTWARE.
 	<color name="bone-white" value="#f8f8f0"/>
 	<color name="weird-gray" value="#909194"/>
 
-	<style name="text" foreground="#AAFF00" background="background"/>
+	<style name="text" foreground="green" background="background"/>
 	<style name="selection" background="selection"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
